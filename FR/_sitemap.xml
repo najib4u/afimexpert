@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>[%_PROJET_WEB_%]/FR/index.html</loc><lastmod>2023-01-04</lastmod></url>
-<url><loc>[%_PROJET_WEB_%]/FR/la_societe.html</loc><lastmod>2023-01-04</lastmod></url>
-<url><loc>[%_PROJET_WEB_%]/FR/services.html</loc><lastmod>2023-01-04</lastmod></url>
-<url><loc>[%_PROJET_WEB_%]/FR/produits.html</loc><lastmod>2023-01-04</lastmod></url>
-<url><loc>[%_PROJET_WEB_%]/FR/contact.html</loc><lastmod>2023-01-04</lastmod></url>
-<url><loc>[%_PROJET_WEB_%]/FR/mentions_legales.html</loc><lastmod>2023-01-04</lastmod></url>
-<url><loc>[%_PROJET_WEB_%]/FR/pack_elearning.html</loc><lastmod>2023-01-04</lastmod></url>
-<url><loc>[%_PROJET_WEB_%]/FR/pack_personnalisee.html</loc><lastmod>2023-01-04</lastmod></url>
-<url><loc>[%_PROJET_WEB_%]/FR/pack _complete.html</loc><lastmod>2023-01-04</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/index.html</loc><lastmod>2023-01-07</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/la_societe.html</loc><lastmod>2023-01-07</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/services.html</loc><lastmod>2023-01-07</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/produits.html</loc><lastmod>2023-01-07</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/contact.html</loc><lastmod>2023-01-07</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/mentions_legales.html</loc><lastmod>2023-01-07</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/pack_elearning.html</loc><lastmod>2023-01-07</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/pack_personnalisee.html</loc><lastmod>2023-01-07</lastmod></url>
+<url><loc>[%_PROJET_WEB_%]/FR/pack-complete.html</loc><lastmod>2023-01-07</lastmod></url>
 </urlset>
